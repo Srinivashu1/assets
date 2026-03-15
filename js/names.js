@@ -13,3 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         el.textContent = initials;
     });
 });
+
+
+
+

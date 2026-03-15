@@ -57,3 +57,18 @@
     70%  { opacity: 1; }
     100% { opacity: 0; visibility: hidden; }
 }
+
+
+.kk{
+    position: fixed;
+    top: 40px;
+    left: 56%;
+    transform: translateX(-50%);
+}
+
+
+
+
+
+
+
