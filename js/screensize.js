@@ -4,7 +4,7 @@ function showScreenSize() {
 }
 
 // Show on page load
-showScreenSize();
+// showScreenSize();
 
 // Update when the browser is resized
 window.addEventListener("resize", showScreenSize);
