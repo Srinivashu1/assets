@@ -1,6 +1,7 @@
 function showScreenSize() {
     document.getElementById("screensize").innerHTML =
-        "Width: " + window.innerWidth + "px | Height: " + window.innerHeight + "px";
+        "Width: " + window.innerWidth + "px | Height: ";
+        // + window.innerHeight + "px";
 }
 
 // Show on page load
